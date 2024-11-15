@@ -32,7 +32,7 @@ const About = () => {
     {
       icon: Code,
       title: "Competitive Programming",
-      description: "LeetCode rating: 1531 | 350+ problems solved",
+      description: "LeetCode rating: 1628 | 400+ problems solved",
     },
     {
       icon: Award,
@@ -111,7 +111,7 @@ const About = () => {
               } delay-600`}
             >
               <a
-                href="/public/Resume.pdf"
+                href="https://drive.google.com/drive/folders/1qos9TOK_Lm7rERJieQCk8hSfiGtF8OEG?usp=drive_link"
                 className="group flex items-center gap-2 px-6 py-3 bg-purple-600 rounded-full hover:bg-purple-700 transition-all duration-300 hover:scale-105"
               >
                 <FileDown className="w-5 h-5" />
