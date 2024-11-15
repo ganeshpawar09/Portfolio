@@ -9,9 +9,19 @@ const Projects = () => {
       description:
         "An interactive chess platform featuring real-time gameplay, intelligent matchmaking, WebRTC-based video calling, and multilingual chat translation using the Gemini API. The app provides a seamless gaming experience with secure authentication and media management.",
       images: [
-        "/images/chess_io_1.png",
-        "/images/chess_io_2.png",
-        "/images/chess_io_3.png",
+        "/images/Chessio/1.jpg",
+        "/images/Chessio/2.jpg",
+        "/images/Chessio/3.jpg",
+        "/images/Chessio/4.jpg",
+        "/images/Chessio/5.jpg",
+        "/images/Chessio/6.jpg",
+        "/images/Chessio/7.jpg",
+        "/images/Chessio/8.jpg",
+        "/images/Chessio/9.jpg",
+        "/images/Chessio/10.jpg",
+        "/images/Chessio/11.jpg",
+        "/images/Chessio/12.jpg",
+        "/images/Chessio/13.jpg",
       ],
       tech: [
         "Flutter",
@@ -27,18 +37,19 @@ const Projects = () => {
     },
     {
       type: "mobile",
-      title: "FindMyNest",
+      title: "FlatMates",
       description:
         "A comprehensive rental property platform with advanced search and filtering options. Features include location-based search with Map API integration, real-time chat functionality, and secure user authentication with media management capabilities.",
       images: [
-        "/images/Flatmates/1.png",
+        "/images/Flatmates/1.jpg",
         "/images/Flatmates/2.png",
         "/images/Flatmates/3.png",
-        "/images/Flatmates/4.png",
-        "/images/Flatmates/5.png",
+        "/images/Flatmates/4.jpg",
+        "/images/Flatmates/5.jpg",
         "/images/Flatmates/6.png",
         "/images/Flatmates/7.png",
         "/images/Flatmates/8.png",
+        "/images/Flatmates/9.png",
       ],
       tech: [
         "Flutter",
@@ -48,7 +59,7 @@ const Projects = () => {
         "Socket.IO",
         "Map API",
       ],
-      github: "https://github.com/ganeshpawar09/findmynest",
+      github: "https://github.com/ganeshpawar09/FlatMates",
       link: "#",
     },
   ];

@@ -17,16 +17,16 @@ const Hero = () => {
   const socialLinks = [
     {
       icon: Linkedin,
-      href: "https://www.linkedin.com/in/your-profile",
+      href: "https://www.linkedin.com/in/ganesh-pawar-171950245/",
     },
     {
       icon: Code2,
-      href: "https://github.com/your-profile",
+      href: "https://leetcode.com/u/ganeshpawar09/",
       delay: "delay-[1400ms]",
     },
     {
       icon: Mail,
-      href: "mailto:your-email@example.com",
+      href: "mailto:gapawar2003@gmail.com",
       delay: "delay-[1200ms]",
     },
   ];

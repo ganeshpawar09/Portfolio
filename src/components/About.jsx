@@ -111,7 +111,7 @@ const About = () => {
               } delay-600`}
             >
               <a
-                href="#"
+                href="/public/Resume.pdf"
                 className="group flex items-center gap-2 px-6 py-3 bg-purple-600 rounded-full hover:bg-purple-700 transition-all duration-300 hover:scale-105"
               >
                 <FileDown className="w-5 h-5" />

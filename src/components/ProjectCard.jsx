@@ -178,24 +178,6 @@ const ProjectCard = ({ project }) => {
                 </span>
               </a>
             )}
-            {project.link && (
-              <a
-                href={project.link}
-                className="inline-flex items-center gap-2 text-purple-400 hover:text-purple-300
-                  transition-colors duration-300 group/link"
-              >
-                <span
-                  className="border-b border-purple-400/0 group-hover/link:border-purple-400
-                  transition-colors duration-300"
-                >
-                  Live Demo
-                </span>
-                <ExternalLink
-                  className="w-5 h-5 group-hover/link:translate-x-1 group-hover/link:-translate-y-1
-                  transition-transform duration-300"
-                />
-              </a>
-            )}
           </div>
         </div>
       </div>
